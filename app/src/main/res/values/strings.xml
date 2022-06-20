@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Android Practice</string>
     <string name="btn">Button</string>
+    <string name="txt_inp_hint">Text Hint</string>
 </resources>
